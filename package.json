@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "nuxt": "^3.3.3"
+  },
+  "dependencies": {
+    "@vee-validate/zod": "^4.8.4",
+    "primeicons": "^6.0.1",
+    "primevue": "^3.26.1",
+    "vee-validate": "^4.8.4",
+    "zod": "^3.21.4"
+  }
+}
