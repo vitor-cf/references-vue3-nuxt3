@@ -6,7 +6,7 @@
                     <NuxtLink to="about">About</NuxtLink>
                 </li>
                 <li>
-                    <NuxtLink to="posts/1">Post 1</NuxtLink>
+                    <NuxtLink to="posts/edit/1">Post 1</NuxtLink>
                 </li>
                 <li>
                     <NuxtLink :to="nome" `>Post 2</NuxtLink>
